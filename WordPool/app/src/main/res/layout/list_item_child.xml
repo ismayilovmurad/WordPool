@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/list_item_child_mainTV"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/listPreferredItemHeightSmall"
+        android:gravity="center_vertical"
+        android:paddingStart="?android:attr/expandableListPreferredChildPaddingLeft"
+        android:textColor="@color/colorOne"
+        tools:ignore="RtlSymmetry" />
+
+</FrameLayout>

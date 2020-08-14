@@ -1,0 +1,32 @@
+<resources>
+    <!--Default-->
+    <string name="app_name">Word Pool</string>
+    <!--Application-->
+    <string name="add">Add</string>
+    <string name="next">Next</string>
+    <string name="done">Done</string>
+    <string name="word">Word</string>
+    <string name="w_rd">w+rd</string>
+    <string name="create">Create</string>
+    <string name="add_word">Add word</string>
+    <string name="previous">Previous</string>
+    <string name="definition">Definition</string>
+    <string name="new_collection">New collection</string>
+    <string name="collection_name">Collection name</string>
+    <string name="powered_by">Powered by Martian Developer</string>
+    <string name="press_back_again">Press the back key again to exit</string>
+    <!--Translatable False-->
+    <string name="open" translatable="false">Open</string>
+    <string name="close" translatable="false">Close</string>
+    <!--Array-->
+    <string-array name="titles">
+        <item>Collect</item>
+        <item>Keep</item>
+        <item>Google</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Collect new words while you\'re learning a new language or other skills</item>
+        <item>Keep all of your words separately and well organized</item>
+        <item>Keep in safe all the data by logging with your Google account</item>
+    </string-array>
+</resources>
